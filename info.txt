@@ -1,0 +1,6 @@
+Registration App using class based view 
+1) /Admin
+2) basic_app -- to display list we have added with registration
+3) click on list item -- redirected to detail page 
+4) Update -- it will update the fields 
+5) basic_app/create/ -- to create school detail 
